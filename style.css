@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+  }
+#welcome{
+    background: linear-gradient(to bottom,
+    #75ff7c,
+    #ff7581,
+    #ffba75,
+    #75bfff,
+    #aa42f5,
+    #f29de7,
+    #ffffff);
+}
+#jogo{
+    font-size: 30px;
+
+    
+
+}
+
+
